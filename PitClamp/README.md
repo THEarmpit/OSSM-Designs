@@ -10,13 +10,13 @@ Selection of bases for different use cases
   - Full 360 degree range of movement
 - 140w JMC iHSV57 with v2 reference board
   - 80 degree range of movement (-40 to 40 degrees from horizontal) [^1]
-- 140w JMC iHSV57 with v3 (future) reference board
+- 140w JMC iHSV57 with relocated (or future) reference board
   - Full 360 degree range of movement [^1]
 - 100w JMC iHSV57 with v2 reference board
   - Not supported
-- 100w JMC iHSV57 with v3 (future) reference board
+- 100w JMC iHSV57 with relocated (or future) reference board
   - 200 degree range of movement (-100 to 100 degrees from horizontal) [^1]  
-- "Gold motor" 57AIM30C with v3 (future) reference board
+- "Gold motor" 57AIM30C with relocated (or future) reference board
   - Full 360 degree range of movement [^1]
 
 
@@ -35,12 +35,12 @@ Components shared among all PitClamp mounting bases
 - Clamp dogbone (Bolt inset)
 
 **Hardware for motor mounts:**  
-2x M4x16 (M4x25 max) Socket Cap Head Bolt (Optional 2x M4 Nut for added strength, likely unnecessary)  
-2x M5x35 Socket Cap Head Bolt (Optional)  
+2x M4x16 (M4x25 max) Socket Cap Head Bolt (+ optional 2x M4 Nut for added strength, likely unnecessary)  
+(Optional) 2x M5x35 Socket Cap Head Bolt (To attach to OSSM-Body-Bottom)  
 
 **Hardware for clamp:**  
-2x M4x25 Socket Cap Head Bolt [^1]  
-1x M4x12 Socket Cap Head Bolt [^1]  
+2x M4x25 Socket Cap Head Bolt  
+1x M4x12 Socket Cap Head Bolt  
 3x M4 Nut  
 
 [Details to come]  
@@ -54,8 +54,8 @@ Maximum height after motor removed for storage: 60mm
 
 
 **Hardware for attaching to 4040:**  
-2x M6x20 Socket Cap Head Bolt [^1]  
-2x ~15mm Washer  
+2x M6x20 Socket Cap Head Bolt  
+2x ~12mm diameter M6 Washer (16mm max)  
 2x M6 T-Nut  
 
 [Details to come]  
