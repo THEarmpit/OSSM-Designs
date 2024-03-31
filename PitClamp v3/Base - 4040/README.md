@@ -19,3 +19,5 @@ Minimal supports around the hinge and handle attachment points
 **Assembly**  
 Use M6x20 Socket Cap Head Bolt (or M8 on M8 version) and T-Nut to attach to 4040, washer for front slides into slot  
 Attach Ring Upper to Ring Base using Hinge Pin and affix Hinge Pin Clip  
+
+![PitClamp v3 - 4040 Base Print Orientation](Images/PrintOrientation.png)  
