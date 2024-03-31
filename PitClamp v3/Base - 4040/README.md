@@ -1,4 +1,7 @@
 ## PitClamp v3 - 4040 Base
+![PitClamp v3 - 4040 Base](Images/Loosened_With_Baseplate.png)  
+![PitClamp v3 - 4040 Base](Images/Fully_Open.png)  
+
 **Summary**  
 Base for attaching PitClamp v3 to 4040 aluminum extrusion  
 60mm height when in 'storage' mode  
