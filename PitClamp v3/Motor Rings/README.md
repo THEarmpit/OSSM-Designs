@@ -1,4 +1,8 @@
 ## PitClamp v3 - Motor Rings
+
+![Motor Rings Assembly View](Images/Assembly_View_Motor_Rings.png)  
+
+
 **Summary**  
 Motor rings for attaching iHSV57 and 57AIM Nema23 motors to PitClamp v3 mounts  
 
