@@ -26,7 +26,7 @@ Selection of bases for different use cases
 ![PitClamp v3 README Cover Photo2](Images/PitClamp_v3_Loosened_WithMotor.png)  
 
 
-## PitClamp v3 - Motor Rings
+## [PitClamp v3 - Motor Rings](Motor%20Rings)
 ![Motor Rings Assembly View](Motor%20Rings/Images/Assembly_View_Motor_Rings.png)  
 
 
@@ -63,7 +63,7 @@ Slide ring halves over motor and connect using M4x16 (M4x25 max) Socket Cap Head
 (Optional, recommended) Connect motor ring assembly to OSSM Base using 2x M5x35 Socket Cap Head Bolts  
 
 
-## PitClamp v3 - Shared Components
+## [PitClamp v3 - Shared Components](Shared%20Components)
 ![PitClamp v3 - Shared Components](Shared%20Components/Images/Assembly_View.png)  
 
 **Summary**  
@@ -95,7 +95,7 @@ Attach Dogbones to the Handle using M4x25 Socket Cap Head Bolt (Hand tighten unt
 ![PitClamp v3 - Shared Components](Shared%20Components/Images/PrintOrientation.png)  
 
 
-## PitClamp v3 - 4040 Base
+## [PitClamp v3 - 4040 Base](Base%20-%204040)
 ![PitClamp v3 - 4040 Base](Base%20-%204040/Images/Loosened_With_Baseplate.png)  
 ![PitClamp v3 - 4040 Base](Base%20-%204040/Images/Fully_Open.png)  
 
@@ -120,7 +120,7 @@ Attach Ring Upper to Ring Base using Hinge Pin and affix Hinge Pin Clip
 ![PitClamp v3 - 4040 Base Print Orientation](Base%20-%204040/Images/PrintOrientation.png)  
 
 
-## PitClamp v3 - Tabletop Base  
+## [PitClamp v3 - Tabletop Base](Base%20-%20Tabletop)  
 
 ![PitClamp v3 - Tabletop Base](Base%20-%20Tabletop/Images/PitClamp_v3_Tabletop.png)  
 
@@ -150,7 +150,7 @@ Currently no add-ons have been created
 
 
 
-## PitClamp v3 - Pipe Clamp Base (experimental, WIP)  
+## [PitClamp v3 - Pipe Clamp Base (experimental, WIP)](Base%20-%20Pipe%20Clamp)  
 **Summary**  
 Base for attaching PitClamp v3 to 1.5" (38mm) pipe  
 
