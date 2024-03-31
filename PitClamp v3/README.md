@@ -1,4 +1,4 @@
-![PitClamp v3 README Cover Photo](CoverPhoto.png?raw=true)
+![PitClamp v3 README Cover Photo](Images/CoverPhoto.png)
 
 # PitClamp v3 Quick Release Nema23 Mount 
 **Summary**  
@@ -23,8 +23,13 @@ Selection of bases for different use cases
 - "Gold motor" 57AIM30C with relocated (or future) reference board
   - Full 360 degree
 
+![PitClamp v3 README Cover Photo2](Images/PitClamp_v3_Loosened_WithMotor.png)  
+
 
 ## PitClamp v3 - Motor Rings
+![Motor Rings Assembly View](Motor%20Rings/Images/Assembly_View_Motor_Rings.png)  
+
+
 **Summary**  
 Motor rings for attaching iHSV57 and 57AIM Nema23 motors to PitClamp v3 mounts  
 
@@ -37,7 +42,7 @@ Motor rings for attaching iHSV57 and 57AIM Nema23 motors to PitClamp v3 mounts
   - Pair one of these with a standard half if you use 140w
 
 **Part list**  
-- Motor Ring Half (Standard)
+- Motor Ring Half
 - Motor Ring Half EXTRAGRIP
 - Motor Ring Half 140w
 - Motor Ring Half EXTRAGRIP 140w
@@ -59,6 +64,8 @@ Slide ring halves over motor and connect using M4x16 (M4x25 max) Socket Cap Head
 
 
 ## PitClamp v3 - Shared Components
+![PitClamp v3 - Shared Components](Shared%20Components/Images/Assembly_View.png)  
+
 **Summary**  
 Components shared among all PitClamp v3 mounting bases
 
@@ -85,21 +92,16 @@ Insert M4 nuts into the Dogbone and Handle
 Attach Handle to the Ring Base using M4x12 Socket Cap Head Bolt (Hand tighten until snug, then back off 1/4 turn)  
 Attach Dogbones to the Handle using M4x25 Socket Cap Head Bolt (Hand tighten until snug, then back off 1/4 turn)  
 
+![PitClamp v3 - Shared Components](Shared%20Components/Images/PrintOrientation.png)  
+
 
 ## PitClamp v3 - 4040 Base
+![PitClamp v3 - 4040 Base](Base%20-%204040/Images/Loosened_With_Baseplate.png)  
+![PitClamp v3 - 4040 Base](Base%20-%204040/Images/Fully_Open.png)  
+
 **Summary**  
 Base for attaching PitClamp v3 to 4040 aluminum extrusion  
 60mm height when in 'storage' mode  
-
-**File variations**  
-- M6 (Standard)
-  - Supports mounting using M6 hardware
-- M8
-  - Supports mounting using M8 hardware
-
-**Part list**  
-- Ring Base M6
-- Ring Base M8
 
 **Hardware**  
 - 2x M6x20 Socket Cap Head Bolt
@@ -115,8 +117,13 @@ Minimal supports around the hinge and handle attachment points
 Use M6x20 Socket Cap Head Bolt (or M8 on M8 version) and T-Nut to attach to 4040, washer for front slides into slot  
 Attach Ring Upper to Ring Base using Hinge Pin and affix Hinge Pin Clip  
 
+![PitClamp v3 - 4040 Base Print Orientation](Base%20-%204040/Images/PrintOrientation.png)  
+
 
 ## PitClamp v3 - Tabletop Base  
+
+![PitClamp v3 - Tabletop Base](Base%20-%20Tabletop/Images/PitClamp_v3_Tabletop.png)  
+
 **Summary**  
 Allows for clamping to a tabletop, door or similar, ranging from 30mm-50mm  
 For use with stroker attachments or for light-duty insertable use when attached to an interior door  
@@ -138,6 +145,9 @@ Attach Ring Upper to Ring Base using Hinge Pin and affix Hinge Pin Clip
 **Addons**  
 M3,M6,M3 holes with 15mm spacing on center to support addons  
 Currently no add-ons have been created  
+
+![PitClamp v3 - Tabletop Base Print Orientation](Base%20-%20Tabletop/Images/PrintOrientation.png)  
+
 
 
 ## PitClamp v3 - Pipe Clamp Base (experimental, WIP)  
