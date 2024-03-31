@@ -1,4 +1,7 @@
 ## PitClamp v3 - Shared Components
+
+![PitClamp v3 - Shared Components](Images/Assembly_View.png)  
+
 **Summary**  
 Components shared among all PitClamp v3 mounting bases
 
@@ -24,3 +27,5 @@ Supports required for Handle
 Insert M4 nuts into the Dogbone and Handle  
 Attach Handle to the Ring Base using M4x12 Socket Cap Head Bolt (Hand tighten until snug, then back off 1/4 turn)  
 Attach Dogbones to the Handle using M4x25 Socket Cap Head Bolt (Hand tighten until snug, then back off 1/4 turn)  
+
+![PitClamp v3 - Shared Components](Images/PrintOrientation.png)  
