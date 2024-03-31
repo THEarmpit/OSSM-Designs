@@ -1,4 +1,7 @@
 ## PitClamp v3 - Tabletop Base  
+
+![PitClamp v3 - Tabletop Base](Images/PitClamp_v3_Tabletop.png)  
+
 **Summary**  
 Allows for clamping to a tabletop, door or similar, ranging from 30mm-50mm  
 For use with stroker attachments or for light-duty insertable use when attached to an interior door  
