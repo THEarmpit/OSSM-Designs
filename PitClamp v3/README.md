@@ -103,6 +103,10 @@ Attach Dogbones to the Handle using M4x25 Socket Cap Head Bolt (Hand tighten unt
 Base for attaching PitClamp v3 to 4040 aluminum extrusion  
 60mm height when in 'storage' mode  
 
+**File variations**  
+- Ring Base M6 mounting hardware
+- Ring Base M8 mounting hardware
+  
 **Hardware**  
 - 2x M6x20 Socket Cap Head Bolt
 - 2x ~12mm diameter M6 Washer (16mm max diameter, 2.4mm max thickness)
