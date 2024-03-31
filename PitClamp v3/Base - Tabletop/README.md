@@ -23,3 +23,5 @@ Attach Ring Upper to Ring Base using Hinge Pin and affix Hinge Pin Clip
 **Addons**  
 M3,M6,M3 holes with 15mm spacing on center to support addons  
 Currently no add-ons have been created  
+
+![PitClamp v3 - Tabletop Base Print Orientation](Images/PrintOrientation.png)  
