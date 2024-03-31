@@ -27,7 +27,7 @@ Motor rings for attaching iHSV57 and 57AIM Nema23 motors to PitClamp v3 mounts
 **Printing**  
 3 walls 20% infill  
 No supports necessary  
-Must print with 0.2mm layer height for built-in support assists to work  
+(Must print with 0.2mm layer height for built-in support assists to work)  
 If using 180w motor rings, print your selected ring twice; If using 140, replace one ring with the corresponding 140w variant  
 
 **Assembly**  
