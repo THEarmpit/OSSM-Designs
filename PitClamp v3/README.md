@@ -37,7 +37,7 @@ Motor rings for attaching iHSV57 and 57AIM Nema23 motors to PitClamp v3 mounts
   - Pair one of these with a standard half if you use 140w
 
 **Part list**  
-- Motor Ring Half
+- Motor Ring Half (Standard)
 - Motor Ring Half EXTRAGRIP
 - Motor Ring Half 140w
 - Motor Ring Half EXTRAGRIP 140w
@@ -90,6 +90,16 @@ Attach Dogbones to the Handle using M4x25 Socket Cap Head Bolt (Hand tighten unt
 **Summary**  
 Base for attaching PitClamp v3 to 4040 aluminum extrusion  
 60mm height when in 'storage' mode  
+
+**File variations**  
+- M6 (Standard)
+  - Supports mounting using M6 hardware
+- M8
+  - Supports mounting using M8 hardware
+
+**Part list**  
+- Ring Base M6
+- Ring Base M8
 
 **Hardware**  
 - 2x M6x20 Socket Cap Head Bolt
