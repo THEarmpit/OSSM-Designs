@@ -18,7 +18,8 @@ I chose not to support threads and worked fine on Ender3 v1 w/ PETG
 The screw and screw topper do not need support  
 
 **Assembly**  
-Attach Ring Upper to Ring Base using Hinge Pin and affix Hinge Pin Clip  
+(Optional, but highly recommended) Attach 3 furniture gripping pads to the underside of the Tabletop Mount and 1 gripping pad to Screw Topper.  
+Thread Screw through the Tabletop Mount and then snap Screw Topper into place
 
 **Addons**  
 M3,M6,M3 holes with 15mm spacing on center to support addons  
