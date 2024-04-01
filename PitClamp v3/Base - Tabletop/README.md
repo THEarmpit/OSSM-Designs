@@ -22,7 +22,7 @@ The screw and screw topper do not need support
 Thread Screw through the Tabletop Mount and then snap Screw Topper into place
 
 **Addons**  
-M3,M6,M3 holes with 15mm spacing on center to support addons  
+M4,M6,M4 holes with 15mm spacing on center to support addons  
 Currently no add-ons have been created  
 
 ![PitClamp v3 - Tabletop Base Print Orientation](Images/PrintOrientation.png)  
