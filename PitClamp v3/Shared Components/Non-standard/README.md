@@ -7,6 +7,10 @@ These are non-standard parts that may be better for certain setups
 Remix author: armpit  
 Default handle with an 80 degree bend to allow for PitClamp v3 use in setups where the handle cannot extend down past the PitClamp Base  
 
+### /Motor Ring Tighter/PitClamp_v3_Motor_Ring_Half_Tighter_Tolerances
+Remix author: armpit  
+From discord feedback, this ring version reduces horizonal ring slop from about 1mm down to 0.2mm total. This should allow for proper alignment in non-standard OSSM Head setups
+
 ## 3rd party non-standard parts:  
 
 ### /20-4040/PitClamp_v3_Ring_Base_M5
