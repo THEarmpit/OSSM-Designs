@@ -1,6 +1,11 @@
 ## Screwcap Mini Tensioner
 
-Inspired by Jack's 24mm effector + tensioner
+![Screwcap Mini Tensioner](Images/Screwcap_Mini_Tensioner_RC1_Alt.png)  
+![Screwcap Mini Tensioner](Images/Screwcap_Mini_Tensioner_RC1_Exploded.png)  
+![Screwcap Mini Tensioner](Images/Screwcap_Mini_Tensioner_RC1_Cutaway.png)  
+![Screwcap Mini Tensioner](Images/Screwcap_Mini_Tensioner_RC1_Print.png)  
+
+Inspired by Jack's 24mm effector + tensioner  
 Inspired by JRG's clampring tidy-up
  
 
