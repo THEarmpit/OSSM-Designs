@@ -1,7 +1,7 @@
 ## OSSM Reference PCB Housing - Remix w/ Strain Relief
 
-![Screwcap Mini Tensioner](Images/OSSM_Reference_PCB_Housing_V2_StrainRelief_RC1.png)  
-![Screwcap Mini Tensioner](Images/OSSM_Reference_PCB_Housing_V2_StrainRelief_RC1_Alt.png)  
+![OSSM Reference PCB Housing - Remix w/ Strain Relief](Images/OSSM_Reference_PCB_Housing_V2_StrainRelief_RC1.png)  
+![OSSM Reference PCB Housing - Remix w/ Strain Relief](Images/OSSM_Reference_PCB_Housing_V2_StrainRelief_RC1_Alt.png)  
 
 **Summary**  
 Adds a strain relief for the power plug with a 12.5mm inner diameter (a little larger than typical barrel plug)  
